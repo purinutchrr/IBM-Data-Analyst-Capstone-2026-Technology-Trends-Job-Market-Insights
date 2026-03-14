@@ -38,7 +38,7 @@ The project follows a standard data analysis lifecycle, organized into 6 core mo
 
 ## Live Interactive Dashboard
 Experience the full data visualization through the interactive Google Looker Studio report:
-👉 **[View 2026 Tech Trends Dashboard](https://lookerstudio.google.com/reporting/e371b2ca-9728-4f4f-ad00-08002104d5f0)**
+👉 <a href="https://lookerstudio.google.com/reporting/e371b2ca-9728-4f4f-ad00-08002104d5f0" target="_blank">View 2026 Tech Trends Dashboard</a>
 
 ## Target Audience
 This analysis is designed for **Data Analysts**, **HR Professionals**, and **Technical Project Managers** looking to understand the evolving tech ecosystem.
