@@ -31,7 +31,7 @@ The project follows a standard data analysis lifecycle, organized into 6 core mo
 | :--- | :--- | :--- |
 | **Module 1** | **Data Collection** | Collecting technical job data via Flask APIs and scraping salary benchmarks using BeautifulSoup. |
 | **Module 2** | **Data Wrangling** | Cleaning and standardizing **18,845 records**, handling duplicates, and managing missing values. |
-| **Module 3** | **Exploratory Data Analysis** | Utilizing SQL (SQLite) for deep-dive profiling into developer demographics and tech stack usage. |
+| **Module 3** | **Exploratory Data Analysis** | Deep-dive profiling into developer demographics and tech stack usage. |
 | **Module 4** | **Data Visualization** | Creating distribution plots (Box plots, Histograms) to analyze market trends. |
 | **Module 5** | **Dashboard Development** | Building an interactive 3-tab executive dashboard in Google Looker Studio. |
 | **Module 6** | **Strategic Reporting** | Synthesizing findings into a final presentation with actionable recommendations. |
